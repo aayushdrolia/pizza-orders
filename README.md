@@ -1,11 +1,5 @@
 # pizza-orders
 
-## System Dependencies
-```
-# Yarn
-# Vue CLI
-```
-
 ## Project setup
 ```
 yarn install
