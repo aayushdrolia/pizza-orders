@@ -23,7 +23,7 @@
           <td>
             <button class="btn btn-sm btn-primary mb-2" @click="updateStatus(index,order.status)">Change Status
             </button>
-            <button class="btn btn-sm btn-danger ml-3" @click="resetOrder(index)">Reset
+            <button class="btn btn-sm btn-danger mb-2 ml-3" @click="resetOrder(index)">Reset
             </button>
           </td>
         </tr>
